@@ -65,4 +65,21 @@
 
 <br>
 
+<h3 align="center">Open source</h3>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bensig/knowledge-panel-playbook">
+        <img src="https://benobi.one/images/google-knowledge-panel.png" width="240" alt="Knowledge Panel Playbook"><br><br>
+        <b>knowledge-panel-playbook</b>
+      </a><br>
+      <sub>Claude Code skill + prompt template + every artifact I used<br>to give myself a Google Knowledge Panel · CC0</sub><br><br>
+      <sub><a href="https://benobi.one/panel.html">slides</a> · <a href="https://benobi.one/posts/google-knowledge-panel-guide/">guide</a></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center"><sub>GPG: <code>C85A 0311 F61C 2B5D B5F9 A3FA 14D3 5567 EC8F 7BA0</code></sub></p>
